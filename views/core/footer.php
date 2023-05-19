@@ -63,7 +63,7 @@
       </div>
     </div>
   </div>
-  <div class="text-center text-info p-3" style="background-color: rgba(0, 0, 0, 0.2)">
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
     &copy; 2023 Dominik Husák
   </div>
 </footer>

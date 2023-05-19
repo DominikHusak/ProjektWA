@@ -1,17 +1,26 @@
 #main1{
-    background-color: rgb(34, 34, 34);
+    background-color:  rgb(55, 55, 55);
     padding-top: 80px;
     padding-bottom: 80px;
 }
 
 #p1{
     font-size: 70px;
+    animation: colorChange 6s infinite linear;
 }
 
-#p2{
+#p2 {
     text-align: center;
     font-size: 35px;
     margin-top: 50px;
     padding-left: 165px;
     padding-right: 165px;
+    animation: colorChange 6s infinite linear;
+}
+
+@keyframes colorChange {
+    0% { color: red; left: 0; } 
+    33% { color: blue; left: 100%; } 
+    66% { color: purple; left: 0; }
+    100% { color: red; left: 0; } 
 }
