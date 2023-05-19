@@ -31,6 +31,16 @@
             <li class="nav-item">
             <a class="nav-link text-white bg-dark" href="#">Currency</a>
             </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="#">
+                    <button type="button" class="btn btn-dark border border-white border-2">Sign up</button>
+                </a>
+            </li>s
+            <li class="nav-item ">
+                <a class="nav-link" href="#">
+                    <button type="button" class="btn btn-dark border border-white border-2">Login</button>
+                </a>
+            </li>
         </ul>
         </div>
     </div>
