@@ -1,0 +1,17 @@
+#main1{
+    background-color: rgb(34, 34, 34);
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+#p1{
+    font-size: 70px;
+}
+
+#p2{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 50px;
+    padding-left: 165px;
+    padding-right: 165px;
+}
