@@ -4,17 +4,23 @@ $request = $_SERVER['REQUEST_URI'];
 
 switch ($request) {
     case '/waprojekt/':
-        $redirect = '/views/Home.php';
+        $redirect = '/views/Login.php';
         break;
-    case '/home.php':
+    case '/home':
         $redirect = '/views/Home.php';
         break;
     case '/about':
         $redirect = '/views/About.php';
         break;
-    case '/overview':
+    case '/price':
         $redirect = '/views/PriceOverview.php';
         break;
+    case '/login':
+        $redirect = '/views/Login.php';
+        break;
+    case '/register':
+        $redirect = '/views/Register.php';
+        break;    
     default:
         require __DIR__ . '/views/404.php';
         exit();
