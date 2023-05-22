@@ -35,7 +35,7 @@
                 <a class="nav-link" href="#">Sign Up</a>
             </li>
             <li class="nav-item d-none">
-                <p id="Username"></p>
+                <p id="UsernameLog"></p>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Login</a>

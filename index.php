@@ -4,7 +4,7 @@ $request = $_SERVER['REQUEST_URI'];
 
 switch ($request) {
     case '/waprojekt/':
-        $redirect = '/views/Login.php';
+        $redirect = '/views/Register.php';
         break;
     case '/home':
         $redirect = '/views/Home.php';
