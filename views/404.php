@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Error 404 seš vocas</p>
+    <p>Error 404</p>
 </body>
 </html>
