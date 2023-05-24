@@ -6,4 +6,4 @@
         the world of cryptocurrencies and harness their potential.
         </p>
     </div>
-</main>
+</main> 

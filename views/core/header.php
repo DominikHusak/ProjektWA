@@ -24,7 +24,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ms-auto align-items-center">
             <li class="nav-item">
-            <a class="nav-link text-white bg-dark" href="#">Home</a>
+            <a class="nav-link text-white bg-dark" href="/">Home</a>
             </li>
             <li class="nav-item">
             <a class="nav-link text-white bg-dark" href="#">About Us</a>
@@ -33,7 +33,7 @@
             <a class="nav-link text-white bg-dark" href="#">Prices</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Sign Up</a>
+                <a class="nav-link" href="/register">Sign Up</a>
             </li>
             <li class="nav-item d-none">
                 <p id="UsernameLog"></p>
