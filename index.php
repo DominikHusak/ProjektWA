@@ -9,14 +9,14 @@ switch ($request) {
     case '/home':
         $redirect = '/views/Home.php';
         break;
-    case '/WAprojekt/views/about':
-        $redirect = '/WAprojekt/views/About.php';
+    case '/about':
+        $redirect = '/views/About.php';
         break;
-    case '/WAprojekt/views/price':
-        $redirect = '/WAprojekt/views/PriceOverview.php';
+    case '/price':
+        $redirect = '/views/PriceOverview.php';
         break;
-    case '/WAprojekt/views/login':
-        $redirect = '/WAprojekt/views/Login.php';
+    case '/login':
+        $redirect = '/views/Login.php';
         break;
     case '/register':
         $redirect = '/views/Register.php';

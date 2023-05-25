@@ -1,4 +1,4 @@
-<main>
+<main id="main2">
 <form>
   <div class="container py-5 h-100">
     <div class="row d-flex justify-content-center align-items-center h-100">
@@ -23,7 +23,7 @@
               <button class="btn btn-outline-light btn-lg px-5" type="submit">Register</button>
             </div>
             <div>
-              <p class="mb-0">Have an account? <a href="#" class="text-white-50 fw-bold">Login</a> </p>
+              <p class="mb-0">Have an account? <a href="/login" class="text-white-50 fw-bold">Login</a> </p>
             </div>
           </div>
         </div>

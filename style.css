@@ -1,7 +1,14 @@
 #main1{
-    background-color:  rgb(55, 55, 55);
+    background-image: url('/views/img/wp2337041.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     padding-top: 120px;
     padding-bottom: 120px;
+}
+
+#main2{
+    background-color: rgb(45, 45, 45);
 }
 
 #p1{
@@ -16,6 +23,11 @@
     padding-left: 170px;
     padding-right: 170px;
     animation: colorChange 6s infinite linear;
+}
+
+#carouselItem{
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 @keyframes colorChange {

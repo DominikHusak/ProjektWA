@@ -1,4 +1,4 @@
-<main>
+<main id="main2">
 <div>
 <form>
   <div class="container py-5 h-100">
@@ -20,7 +20,7 @@
               <button class="btn btn-outline-light btn-lg px-5" type="submit">Login</button>
             </div>
             <div>
-              <p class="mb-0">Don't have an account? <a href="#" class="text-white-50 fw-bold">Sign Up</a> </p>
+              <p class="mb-0">Don't have an account? <a href="/register" class="text-white-50 fw-bold">Sign Up</a> </p>
             </div>
           </div>
         </div>
