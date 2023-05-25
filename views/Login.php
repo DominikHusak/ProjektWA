@@ -30,4 +30,4 @@
 </form>
 </div>
 </main>
-<script src="views/JavaScript/animation.js"></script>
+<script src="/views/JavaScript/animation.js"></script>

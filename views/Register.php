@@ -32,4 +32,4 @@
   </div>
 </form>
 </main>
-<script src="views/JavaScript/animation.js"></script>
+<script src="/views/JavaScript/animation.js"></script>

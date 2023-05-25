@@ -11,7 +11,7 @@
   </div>
   <div class="col-8 text-white">
     <div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
-      <h4 id="list-item-1">What is Crypto</h4>
+      <h4 id="list-item-1"><ins>What is Crypto</ins></h4>
       <p>Cryptocurrency, or crypto for short, is a digital or virtual form of money that is secured using 
         cryptography. It is a decentralized system that enables secure and anonymous transactions directly 
         between individual network participants, without the need for an intermediary such as a bank or 
@@ -20,8 +20,11 @@
         cryptocurrency is Bitcoin, but there are many others, such as Ethereum, Ripple, or Litecoin. 
         Cryptocurrencies offer the potential for fast and inexpensive transactions, investment 
         opportunities, and also drive innovation in the fields of finance and technology.</p>
+        <div class="d-flex justify-content-center mb-3">
+          <img src="/views/img/What-is-cryptocurrency.jpeg" style="width: 650px; height: 250px;" class="img-fluid rounded" alt="Responsive image">
+        </div>
 
-      <h4 id="list-item-2">What makes the price</h4>
+      <h4 id="list-item-2"><ins>What makes the price</ins></h4>
       <p>The value of cryptocurrencies is determined by several factors. One of the main factors is 
         supply and demand in the market. When there is increasing interest in a particular cryptocurrency 
         and more people are willing to buy it, the price tends to rise. Conversely, if the demand 
@@ -32,10 +35,10 @@
         contribute to value appreciation. However, it is important to recognize that cryptocurrency 
         value can be highly volatile, and investing in them carries significant risk.</p>
         <div class="d-flex justify-content-center mb-3">
-          <img src="/views/img/Crypto-Up-3.jpg" style="width: 600px; height: 250px;" class="img-fluid rounded" alt="Responsive image">
+          <img src="/views/img/DR72FGFNKVA6NF6JTWSSEHTJ3M.jpg" style="width: 650px; height: 250px;" class="img-fluid rounded" alt="Responsive image">
         </div>
 
-      <h4 id="list-item-3">Types of Crypto</h4>
+      <h4 id="list-item-3"><ins>Types of Crypto</ins></h4>
       <p>There is a wide range of cryptocurrencies in existence. Bitcoin, the first and most 
         well-known cryptocurrency, operates on a decentralized payment system. Ethereum, another 
         prominent cryptocurrency, focuses on supporting smart contracts and decentralized applications. 
@@ -71,7 +74,7 @@
         </button>
         </div>
         </div>
-      <h4 id="list-item-4">Our goal</h4>
+      <h4 id="list-item-4"><ins>Our goal</ins></h4>
       <p>The goal of our website is to provide users with accurate and up-to-date information about 
         cryptocurrency prices. We monitor the cryptocurrency market 24 hours a day and offer 
         instant real-time price updates. Our website is designed to be user-friendly and 
@@ -83,6 +86,10 @@
         and analysis of the cryptocurrency market.</p>
     </div>
   </div>
-</div>
+  </div>
+  <div class="d-flex justify-content-center flex-column align-items-center mt-5" id="div0">
+    <img src="/views/img/1_yS-CZkLE9YkfqX66AT9QsA.gif" style="width: 1300px; height: 500px;" class="img-fluid rounded" alt="Responsive image">
+    <a href="/price" class="text-white-50 fw-bold mt-3">Check the current prices</a>
+  </div>
 </div>
 </main>
