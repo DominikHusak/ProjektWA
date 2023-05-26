@@ -2,11 +2,11 @@
 <div class="p-5">
 <div class="row">
   <div class="col-4">
-    <div id="list-example" class="list-group">
-      <a class="list-group-item list-group-item-dark" href="#list-item-1">What is Crypto</a>
-      <a class="list-group-item list-group-item-dark" href="#list-item-2">What makes the price</a>
-      <a class="list-group-item list-group-item-dark" href="#list-item-3">Types of Crypto</a>
-      <a class="list-group-item list-group-item-dark" href="#list-item-4">Our goal</a>
+    <div class="list-group">
+      <a class="list-group-item list-group-item-action list-group-item-dark" href="#list-item-1">What is Crypto</a>
+      <a class="list-group-item list-group-item-action list-group-item-dark" href="#list-item-2">What makes the price</a>
+      <a class="list-group-item list-group-item-action list-group-item-dark" href="#list-item-3">Types of Crypto</a>
+      <a class="list-group-item list-group-item-action list-group-item-dark" href="#list-item-4">Our goal</a>
     </div>
   </div>
   <div class="col-8 text-white">
@@ -21,7 +21,7 @@
         Cryptocurrencies offer the potential for fast and inexpensive transactions, investment 
         opportunities, and also drive innovation in the fields of finance and technology.</p>
         <div class="d-flex justify-content-center mb-3">
-          <img src="/views/img/What-is-cryptocurrency.jpeg" style="width: 650px; height: 250px;" class="img-fluid rounded" alt="Responsive image">
+          <img src="/views/img/1661-scaled-e1649434277532.jpg" style="width: 600px; height: auto;" class="img-fluid rounded" alt="Responsive image">
         </div>
 
       <h4 id="list-item-2"><ins>What makes the price</ins></h4>
@@ -35,7 +35,7 @@
         contribute to value appreciation. However, it is important to recognize that cryptocurrency 
         value can be highly volatile, and investing in them carries significant risk.</p>
         <div class="d-flex justify-content-center mb-3">
-          <img src="/views/img/DR72FGFNKVA6NF6JTWSSEHTJ3M.jpg" style="width: 650px; height: 250px;" class="img-fluid rounded" alt="Responsive image">
+          <img src="/views/img/DR72FGFNKVA6NF6JTWSSEHTJ3M.jpg" style="width: 600px; height: auto;" class="img-fluid rounded" alt="Responsive image">
         </div>
 
       <h4 id="list-item-3"><ins>Types of Crypto</ins></h4>
@@ -88,7 +88,7 @@
   </div>
   </div>
   <div class="d-flex justify-content-center flex-column align-items-center mt-5" id="div0">
-    <img src="/views/img/1_yS-CZkLE9YkfqX66AT9QsA.gif" style="width: 1300px; height: 500px;" class="img-fluid rounded" alt="Responsive image">
+    <img src="/views/img/1_yS-CZkLE9YkfqX66AT9QsA.gif" style="width: 100%; height: auto;" class="img-fluid rounded" alt="Responsive image">
     <a href="/price" class="text-white-50 fw-bold mt-3">Check the current prices</a>
   </div>
 </div>
