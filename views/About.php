@@ -21,7 +21,7 @@
         Cryptocurrencies offer the potential for fast and inexpensive transactions, investment 
         opportunities, and also drive innovation in the fields of finance and technology.</p>
         <div class="d-flex justify-content-center mb-3">
-          <img src="/views/img/1661-scaled-e1649434277532.jpg" style="width: 600px; height: auto;" class="img-fluid rounded" alt="Responsive image">
+          <img src="/views/img/1661-scaled-e1649434277532.jpg" style="width: 550px; height: auto;" class="img-fluid rounded" alt="Responsive image">
         </div>
 
       <h4 id="list-item-2"><ins>What makes the price</ins></h4>
@@ -35,7 +35,7 @@
         contribute to value appreciation. However, it is important to recognize that cryptocurrency 
         value can be highly volatile, and investing in them carries significant risk.</p>
         <div class="d-flex justify-content-center mb-3">
-          <img src="/views/img/DR72FGFNKVA6NF6JTWSSEHTJ3M.jpg" style="width: 600px; height: auto;" class="img-fluid rounded" alt="Responsive image">
+          <img src="/views/img/DR72FGFNKVA6NF6JTWSSEHTJ3M.jpg" style="width: 550px; height: auto;" class="img-fluid rounded" alt="Responsive image">
         </div>
 
       <h4 id="list-item-3"><ins>Types of Crypto</ins></h4>
