@@ -86,6 +86,43 @@
         and analysis of the cryptocurrency market.</p>
     </div>
   </div>
+  <div>
+  <h2>Why Choose Us</h2>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="card mb-4">
+              <div class="card-body">
+                <h5 class="card-title">Comprehensive Guides</h5>
+                <p class="card-text">Our platform offers comprehensive guides on various cryptocurrencies, covering their history, technology, and potential applications.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="card mb-4">
+              <div class="card-body">
+                <h5 class="card-title">Market Insights</h5>
+                <p class="card-text">Stay up-to-date with the latest market trends and insights provided by our team of experts, helping you make informed decisions.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title">Community Support</h5>
+                <p class="card-text">Join our vibrant community of cryptocurrency enthusiasts, where you can connect, share ideas, and ask questions.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title">Secure Transactions</h5>
+                <p class="card-text">Learn how to securely buy, sell, and trade cryptocurrencies, ensuring the safety of your transactions.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+  </div>
   </div>
   <div class="d-flex justify-content-center flex-column align-items-center mt-5" id="div0">
     <img src="/views/img/1_yS-CZkLE9YkfqX66AT9QsA.gif" style="width: 100%; height: auto;" class="img-fluid rounded" alt="Responsive image">
