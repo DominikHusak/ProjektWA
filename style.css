@@ -13,7 +13,6 @@
 
 #p1{
     font-size: 70px;
-    animation: colorChange 6s infinite linear;
 }
 
 #p2{
@@ -22,7 +21,6 @@
     margin-top: 50px;
     padding-left: 170px;
     padding-right: 170px;
-    animation: colorChange 6s infinite linear;
 }
 
 #p3{
@@ -34,11 +32,8 @@
     height: 200px;
 }
 
-@keyframes colorChange {
-    0% { color: orange; left: 0; } 
-    33% { color: green; left: 100%; } 
-    66% { color: yellow; left: 0; }
-    100% { color: orange; left: 0; } 
+#ourPros{
+    margin-top: 100px;
 }
 
 @media (max-width: 600px) {
