@@ -8,7 +8,7 @@
         </div>
         <div class="col-md-8">
           <div class="card-body">
-            <h1 class="card-title"><ins>What is crypto</ins></h1>
+            <h2 class="card-title"><ins>What is crypto</ins></h2>
             <p class="card-text">Cryptocurrency, or crypto for short, is a digital or virtual form of 
                   money that is secured using cryptography. It is a decentralized system that enables 
                   secure and anonymous transactions directly between individual network participants, without 
@@ -62,17 +62,17 @@
                   </div>
                 </div>
               </div>
-              <button class="carousel-control-prev bg-dark" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              </button>
-              <button class="carousel-control-next bg-dark" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              </button>
+                <button class="carousel-control-prev bg-dark" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                </button>
+                <button class="carousel-control-next bg-dark" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                </button>
             </div>
         </div>
         <div class="col-md-8">
           <div class="card-body">
-            <h3 class="card-title"><ins>Types of Crypto</ins></h3>
+            <h2 class="card-title"><ins>Types of Crypto</ins></h2>
             <p class="card-text">There is a wide range of cryptocurrencies in existence. Bitcoin, the first 
               and most well-known cryptocurrency, operates on a decentralized payment system. Ethereum, another 
               prominent cryptocurrency, focuses on supporting smart contracts and decentralized 
@@ -93,7 +93,7 @@
         </div>
         <div class="col-md-8">
           <div class="card-body">
-            <h4 class="card-title"><ins>Our goal</ins></h4>
+            <h2 class="card-title"><ins>Our goal</ins></h2>
             <p class="card-text">The goal of our website is to provide users with accurate and up-to-date 
               information about cryptocurrency prices. We monitor the cryptocurrency market 24 hours a 
               day and offer instant real-time price updates. Our website is designed to be user-friendly 

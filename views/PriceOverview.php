@@ -26,7 +26,7 @@
         How safe is cryptocurrency?
       </button>
     </h2>
-    <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+    <div id="collapseOne" class="accordion-collapse collapse" style="width: 400px;" data-bs-parent="#accordionExample">
       <div class="accordion-body">
       Despite its decentralized nature, transactions on most cryptocurrency networks are 
       very secure — as long as crypto users take precautions. 
@@ -40,7 +40,7 @@
         Who created Bitcoin?
       </button>
     </h2>
-    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+    <div id="collapseTwo" class="accordion-collapse collapse" style="width: 400px;" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         Bitcoin was first described in a white paper released in 2008 and published under 
         the name “Satoshi Nakamoto.” The protocol underlying Bitcoin was released in 2009 as 
@@ -53,7 +53,7 @@
         What is bitcoin mining?
       </button>
     </h2>
-    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+    <div id="collapseThree" class="accordion-collapse collapse" style="width: 400px;" data-bs-parent="#accordionExample">
       <div class="accordion-body">
       Bitcoin mining is the mechanism by which participants on the Bitcoin network reach 
       consensus regarding the next block of transactions to add to the Bitcoin blockchain. 
@@ -70,7 +70,7 @@
         Who controls Bitcoin’s software?
       </button>
     </h2>
-    <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+    <div id="collapseFour" class="accordion-collapse collapse" style="width: 400px;" data-bs-parent="#accordionExample">
       <div class="accordion-body">
       Bitcoin is an open source project, with no official entity controlling the Bitcoin network. 
       Anyone can review Bitcoin’s code and propose changes. There are many compatible versions 
@@ -85,7 +85,7 @@
         Is cryptocurrency traceable?
       </button>
     </h2>
-    <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+    <div id="collapseFive" class="accordion-collapse collapse" style="width: 400px;" data-bs-parent="#accordionExample">
       <div class="accordion-body">
       Transactions on public blockchains like Bitcoin, although pseudonymous, are transparent 
       and publicly viewable. Anyone can see all transactions linked to any address on the Bitcoin blockchain.
@@ -98,7 +98,7 @@
         Are cryptocurrencies used for illegal purposes?
       </button>
     </h2>
-    <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+    <div id="collapseSix" class="accordion-collapse collapse" style="width: 400px;" data-bs-parent="#accordionExample">
       <div class="accordion-body">
       Cryptocurrencies operate on a decentralized network, which means it lacks a centralized authority. 
       Crypto holders can perform transactions without actually revealing their identities, which is 
