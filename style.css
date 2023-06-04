@@ -13,14 +13,13 @@
 
 #p1{
     font-size: 70px;
+    text-align: center;
 }
 
 #p2{
     text-align: center;
     font-size: 35px;
     margin-top: 50px;
-    padding-left: 170px;
-    padding-right: 170px;
 }
 
 #p3{
@@ -52,8 +51,17 @@
     #tableDiv {
         overflow-x: auto;
     }
+
     #cryptoCurrencyTable {
         width: 100%;
+    }
+
+    #buttonC{
+        padding-right: 30px;
+    }
+
+    #buttonC2{
+        padding-left: 30px;
     }
 }
 

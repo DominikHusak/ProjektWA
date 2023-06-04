@@ -46,26 +46,26 @@
               <div class="carousel-inner d-flex align-items-center justify-content-center">
                 <div>
                   <div class="carousel-item active">
-                    <img src="/views/img/bitcoin-logo.png" class="d-block" alt="Bitcoin">
+                    <img src="/views/img/bitcoin-logo.png" id="imgC" class="d-block" alt="Bitcoin">
                   </div>
                   <div class="carousel-item">
-                    <img src="/views/img/ethereum-logo.png" class="d-block" alt="Ethereum">
+                    <img src="/views/img/ethereum-logo.png" id="imgC" class="d-block" alt="Ethereum">
                   </div>
                   <div class="carousel-item">
-                    <img src="/views/img/cardano-logo.png" class="d-block" alt="Cardano">
+                    <img src="/views/img/cardano-logo.png" id="imgC" class="d-block" alt="Cardano">
                   </div>
                   <div class="carousel-item">
-                    <img src="/views/img/solana-logo.png" class="d-block" alt="Solana">
+                    <img src="/views/img/solana-logo.png" id="imgC" class="d-block" alt="Solana">
                   </div>
                   <div class="carousel-item">
-                    <img src="/views/img/litecoin-logo.png" class="d-block" alt="Litecoin">
+                    <img src="/views/img/litecoin-logo.png" id="imgC" class="d-block" alt="Litecoin">
                   </div>
                 </div>
               </div>
-                <button class="carousel-control-prev bg-dark" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                <button class="carousel-control-prev carousel-dark" id="buttonC" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
                   <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 </button>
-                <button class="carousel-control-next bg-dark" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                <button class="carousel-control-next carousel-dark" id="buttonC2" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
                   <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 </button>
             </div>

@@ -15,7 +15,7 @@ function getCryptoData() {
             createTable(data);
             setInterval(getCryptoData, 600000);
         },
-        error: function(data) {
+        error: function() {
             retryConnection();
             alert('Error occurred while connecting to CoinGecko API. We apologize for the problems.');
         }
