@@ -3,9 +3,6 @@
   <div class="container">
     <div class="card bg-dark text-white mb-5">
       <div class="row g-0">
-        <div class="col-md-4">
-          <img src="/views/img/107069560-1654078537245-gettyimages-1235570446-porzycki-cryptocu210928_npIa0.jpeg" class="img-fluid rounded-start" style="height: 100%; width: 100%;">
-        </div>
         <div class="col-md-8">
           <div class="card-body">
             <h2 class="card-title"><ins>What is crypto</ins></h2>
@@ -16,6 +13,9 @@
                   blockchain technology, which is a distributed public ledger system that records all 
                   transactions and ensures their immutability.</p>
           </div>
+        </div>
+        <div class="col-md-4 order-first order-md-last">
+          <img src="/views/img/107069560-1654078537245-gettyimages-1235570446-porzycki-cryptocu210928_npIa0.jpeg" class="img-fluid rounded-start" style="height: 100%; width: 100%;">
         </div>
       </div>
     </div>
@@ -41,7 +41,20 @@
 
     <div class="card bg-dark text-white mb-5">
       <div class="row g-0">
-        <div class="col-md-4">
+        <div class="col-md-8">
+          <div class="card-body">
+            <h2 class="card-title"><ins>Types of Crypto</ins></h2>
+            <p class="card-text">There is a wide range of cryptocurrencies in existence. Bitcoin, the first 
+              and most well-known cryptocurrency, operates on a decentralized payment system. Ethereum, another 
+              prominent cryptocurrency, focuses on supporting smart contracts and decentralized 
+              applications. Other popular cryptocurrencies include Ripple, Litecoin, Bitcoin Cash, and 
+              Cardano. Each of these cryptocurrencies has its own specific features, technologies, and 
+              focus, offering various opportunities for investment and utilization in different areas. 
+              Cryptocurrencies, also known as digital or virtual currencies, have emerged as a 
+              transformative force in the financial landscape.</p>
+          </div>
+        </div>
+        <div class="col-md-4 order-first order-md-last">
             <div id="carouselExample" class="carousel slide bg-white rounded">
               <div class="carousel-inner d-flex align-items-center justify-content-center">
                 <div>
@@ -69,19 +82,6 @@
                   <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 </button>
             </div>
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h2 class="card-title"><ins>Types of Crypto</ins></h2>
-            <p class="card-text">There is a wide range of cryptocurrencies in existence. Bitcoin, the first 
-              and most well-known cryptocurrency, operates on a decentralized payment system. Ethereum, another 
-              prominent cryptocurrency, focuses on supporting smart contracts and decentralized 
-              applications. Other popular cryptocurrencies include Ripple, Litecoin, Bitcoin Cash, and 
-              Cardano. Each of these cryptocurrencies has its own specific features, technologies, and 
-              focus, offering various opportunities for investment and utilization in different areas. 
-              Cryptocurrencies, also known as digital or virtual currencies, have emerged as a 
-              transformative force in the financial landscape.</p>
-          </div>
         </div>
       </div>
     </div>
