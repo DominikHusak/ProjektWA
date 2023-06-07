@@ -28,4 +28,4 @@
 
 ## Missing
 - Registr and LogIn system
-- LocalStorage - I didn't find a suitable use.
+- LocalStorage - I didn't find a suitable use. (Newly added)
