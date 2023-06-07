@@ -1,6 +1,16 @@
 $(document).ready(function() {
-    getCryptoData();
+    getCryptoDataFromStorage(); 
+    setInterval(getCryptoData, 10000);
 });
+
+function getCryptoDataFromStorage() {
+    var storedData = localStorage.getItem('cryptoData');
+    if (storedData) {
+        var parsedData = JSON.parse(storedData);
+        createTable(parsedData);
+    }
+    getCryptoData(); 
+}
 
 function getCryptoData() {
     $.ajax({
@@ -13,7 +23,7 @@ function getCryptoData() {
         success: function(data, status) {
             console.log('Data received: ' + data + status);
             createTable(data);
-            setInterval(getCryptoData, 600000);
+            localStorage.setItem('cryptoData', JSON.stringify(data)); 
         },
         error: function() {
             retryConnection();

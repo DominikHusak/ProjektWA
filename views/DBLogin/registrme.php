@@ -8,7 +8,7 @@
 
     $sql = "INSERT INTO UserAccount (user_name, user_email, user_password) VALUES ('$username', '$email', '$password')";
     if ($conn->query($sql) === TRUE) {
-        echo "Registration successful!";
+        echo "Registration successful";
     } else {
         echo "Error: " . $sql . "<br>" . $conn->error;
     }
